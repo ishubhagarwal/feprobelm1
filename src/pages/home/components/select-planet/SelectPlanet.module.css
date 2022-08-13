@@ -1,0 +1,15 @@
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  min-width: 160px;
+  margin-bottom: 5%;
+}
+.labelStyle {
+  margin-bottom: 4%;
+}
+.buttonStyle {
+    width: fit-content;
+}
+.dropdownStyle {
+  margin-bottom: 20%;
+}

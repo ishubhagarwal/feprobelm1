@@ -1,0 +1,35 @@
+.mainContaier {
+  display: flex;
+  flex-direction: row;
+}
+
+.navStyle {
+  width: 100%;
+}
+
+.listStyle {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  padding-left: 4%;
+  padding-right: 4%;
+}
+
+.listItem {
+  display: inline;
+  float: right;
+}
+
+.listItem a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.listItem a:hover {
+  background-color: #111;
+}

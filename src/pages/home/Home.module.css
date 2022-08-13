@@ -1,0 +1,27 @@
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.titleStyle {
+    margin-bottom: 3%;    
+}
+
+.formContainer {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-bottom: 3%;
+}
+
+.timeStyle {
+    margin-bottom: 3%;
+    display: flex;
+    justify-content: center;
+}
+
+.buttonStyle {
+    margin-bottom: 3%;
+    display: flex;
+    justify-content: center;
+}

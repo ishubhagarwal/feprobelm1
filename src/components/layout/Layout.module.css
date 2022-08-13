@@ -1,0 +1,9 @@
+.mainContainer {
+  min-height: 95vh;
+  display: flex;
+  flex-direction: column;
+}
+.contentContainer {
+  padding-left: 5%;
+  padding-right: 5%;
+}

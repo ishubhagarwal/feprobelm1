@@ -1,0 +1,19 @@
+.mainContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.successMessageStyle {
+    margin-bottom: 3%;
+    margin-top: 3%;
+}
+
+.titleStyle {
+    margin-bottom: 3%;    
+}
+
+.planetStyle {
+    margin-bottom: 5%;    
+}
